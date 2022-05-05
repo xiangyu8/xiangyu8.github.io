@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiangyu's Homepage"
+title                    : # "Xiangyu's Homepage"
 description              : # "This is Xianyu's personal Homepage. "
 repository               : "xiangyu8/xiangyu8.github.io"
 google_scholar_stats_use_cdn : true
