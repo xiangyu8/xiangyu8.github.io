@@ -33,8 +33,8 @@ I am currently a third year Ph.D. student at the University of Kansas. My resear
 - [Using RFID Technology to Introduce Properties of LMS](), Zhe Li, *Xiangyu Chen*, Wei Deng, Wenjiang Pei and Yili Xia, **ICASSP 2019 <span style="color:red"> *(oral, Education Innovation Award)* </span>**
 
 # 📖 Educations
-- *2019.08 - 2023.12*, Ph.D. in Electrical Engineering, University of Kansas, USA. Advisor: Dr. Guanghui Wang and Dr. Cuncong Zhong.
-- *2015.09 - 2018.06*, M.Eng. in Signal and Information Processing, Southeast University, China. Advisor: Dr. Yili Xia and Dr. Wenjiang Pei.
+- *2019.08 - 2023.12*, Ph.D. in Electrical Engineering, University of Kansas, USA. **Advisor**: Dr. Guanghui Wang and Dr. Cuncong Zhong.
+- *2015.09 - 2018.06*, M.Eng. in Signal and Information Processing, Southeast University, China. **Advisor**: Dr. Yili Xia and Dr. Wenjiang Pei.
 - *2011.09 - 2015.06*, B.Eng. in Electric and Electronical Engineering, Nanjing University of Science & Technology, China. 
 
 
