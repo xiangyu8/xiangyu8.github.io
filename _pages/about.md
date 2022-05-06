@@ -23,16 +23,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04*: &nbsp;🎉🎉 Awarded WiCV travel fund. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Realtime Global Attention Network for Image Segmentation](), Xi Mo, **Xiangyu Chen**, **RA-L 2022 & ICRA 2022**.
+- [Dilated Continuous Random Field for Semantic Segmentation](), Xi Mo, **Xiangyu Chen**, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid, **ICRA 2022**.
+- [Audio-Visual Transformer Based Crowd Counting, Usman Sajid](), **Xiangyu Chen**, Hasan Sajid, Taejoon Kim and Guanghui Wang, **ICCVW 2021 (oral)**.
+- [Few-Shot Learning by Integrating Spatial and Frequency Representation](), **Xiangyu Chen** and Guanghui Wang, **The Conference on Robots and Vision (CRV) (oral)**
+- [Improving Engagement by Letting Social Robots Learn and Call Your Name](), **Xiangyu Chen** and Andrew B. Williams, **Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020**
+- [Using RFID Technology to Introduce Properties of LMS, Zhe Li](), **Xiangyu Chen**, Wei Deng, Wenjiang Pei and Yili Xia, **ICASSP 2019 (oral, Education Innovation Award)**
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
