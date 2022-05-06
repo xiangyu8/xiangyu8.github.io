@@ -27,7 +27,7 @@ I am currently a third year Ph.D. student at the University of Kansas. My resear
 
 - [Realtime Global Attention Network for Image Segmentation](), Xi Mo, *Xiangyu Chen*, **RA-L 2022 & ICRA 2022**.
 - [Dilated Continuous Random Field for Semantic Segmentation](), Xi Mo, *Xiangyu Chen*, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid, **ICRA 2022**.
-- [Audio-Visual Transformer Based Crowd Counting, Usman Sajid](), *Xiangyu Chen*, Hasan Sajid, Taejoon Kim and Guanghui Wang, **ICCVW 2021 <span style="color:red"> *(oral)* </span>**.
+- [Audio-Visual Transformer Based Crowd Counting](), Usman Sajid, *Xiangyu Chen*, Hasan Sajid, Taejoon Kim and Guanghui Wang, **ICCVW 2021 <span style="color:red"> *(oral)* </span>**.
 - [Few-Shot Learning by Integrating Spatial and Frequency Representation](), *Xiangyu Chen* and Guanghui Wang, **The Conference on Robots and Vision (CRV) <span style="color:red"> *(oral)* </span>**
 - [Improving Engagement by Letting Social Robots Learn and Call Your Name](), *Xiangyu Chen* and Andrew B. Williams, **Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020**
 - [Using RFID Technology to Introduce Properties of LMS](), Zhe Li, *Xiangyu Chen*, Wei Deng, Wenjiang Pei and Yili Xia, **ICASSP 2019 <span style="color:red"> *(oral, Education Innovation Award)* </span>**
