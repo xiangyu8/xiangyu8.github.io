@@ -21,21 +21,22 @@ I am currently a third year Ph.D. student at the University of Kansas. My resear
 
 
 # 🔥 News
-- *2022.04*: &nbsp;🎉🎉 Awarded WiCV travel fund. 
+- *2022.06*: &nbsp; One paper submitted to Neurocomputing.
+- *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
 
-- [Realtime Global Attention Network for Image Segmentation](), Xi Mo, *Xiangyu Chen*, **RA-L 2022 & ICRA 2022**.
-- [Dilated Continuous Random Field for Semantic Segmentation](), Xi Mo, *Xiangyu Chen*, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid, **ICRA 2022**.
-- [Audio-Visual Transformer Based Crowd Counting](), Usman Sajid, *Xiangyu Chen*, Hasan Sajid, Taejoon Kim and Guanghui Wang, **ICCVW 2021 <span style="color:red"> *(oral)* </span>**.
-- [Few-Shot Learning by Integrating Spatial and Frequency Representation](), *Xiangyu Chen* and Guanghui Wang, **The Conference on Robots and Vision (CRV) <span style="color:red"> *(oral)* </span>**
-- [Improving Engagement by Letting Social Robots Learn and Call Your Name](), *Xiangyu Chen* and Andrew B. Williams, **Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020**
-- [Using RFID Technology to Introduce Properties of LMS](), Zhe Li, *Xiangyu Chen*, Wei Deng, Wenjiang Pei and Yili Xia, **ICASSP 2019 <span style="color:red"> *(oral, Education Innovation Award)* </span>**
+- Xi Mo, *Xiangyu Chen*. [Realtime Global Attention Network for Image Segmentation](https://arxiv.org/pdf/2112.12939), **RA-L 2022 & ICRA 2022**.
+- Xi Mo, *Xiangyu Chen*, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid. [Dilated Continuous Random Field for Semantic Segmentation](https://arxiv.org/pdf/2202.00162), **ICRA 2022**.
+- Usman Sajid, *Xiangyu Chen*, Hasan Sajid, Taejoon Kim and Guanghui Wang. [Audio-Visual Transformer Based Crowd Counting](https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Sajid_Audio-Visual_Transformer_Based_Crowd_Counting_ICCVW_2021_paper.pdf), **ICCVW 2021 <span style="color:red"> *(oral)* </span>**.
+- *Xiangyu Chen* and Guanghui Wang. [Few-Shot Learning by Integrating Spatial and Frequency Representation](https://arxiv.org/pdf/2105.05348), **The Conference on Robots and Vision (CRV) <span style="color:red"> *(oral)* </span>**
+- *Xiangyu Chen* and Andrew B. Williams. [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355), **Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020**
+- Zhe Li, *Xiangyu Chen*, Wei Deng, Wenjiang Pei and Yili Xia. [Using RFID Technology to Introduce Properties of LMS](https://ieeexplore.ieee.org/abstract/document/8683764), **ICASSP 2019 <span style="color:red"> *(oral, Education Innovation Award)* </span>**
 
 # 📖 Educations
 - *2019.08 - 2023.12*, Ph.D. in Electrical Engineering, University of Kansas, USA. **Advisor**: Dr. Guanghui Wang and Dr. Cuncong Zhong.
 - *2015.09 - 2018.06*, M.Eng. in Signal and Information Processing, Southeast University, China. **Advisor**: Dr. Yili Xia and Dr. Wenjiang Pei.
-- *2011.09 - 2015.06*, B.Eng. in Electric and Electronical Engineering, Nanjing University of Science & Technology, China. 
+- *2011.09 - 2015.06*, B.Eng. in Electronic and Information Engineering, Nanjing University of Science & Technology, China. 
 
 
 # 💻 Internships
