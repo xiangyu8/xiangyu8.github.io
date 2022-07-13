@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third year Ph.D. student at the University of Kansas. My research interest includes label efficient learning in computer vision.
+I am currently a third year Ph.D. student at the University of Kansas. My research interest includes label efficient learning in computer vision with its application on medical field. I am looking for intership in 2023, Spring and/or Summer. Please feel free to contact me at xychen@ku.edu if you have any interships or other opportunities available.
 
 
 # 🔥 News
@@ -25,7 +25,8 @@ I am currently a third year Ph.D. student at the University of Kansas. My resear
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
-
+- *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Increasing Input Information Density for Vision Transformers on Small Datasets](), **Neurocomputing (Under Review)**.
+- *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](), **extended abstracct in CVPRR Workshop (WiCV)**.
 - Xi Mo, *Xiangyu Chen*. [Realtime Global Attention Network for Image Segmentation](https://arxiv.org/pdf/2112.12939), **RA-L 2022 & ICRA 2022**.
 - Xi Mo, *Xiangyu Chen*, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid. [Dilated Continuous Random Field for Semantic Segmentation](https://arxiv.org/pdf/2202.00162), **ICRA 2022**.
 - Usman Sajid, *Xiangyu Chen*, Hasan Sajid, Taejoon Kim and Guanghui Wang. [Audio-Visual Transformer Based Crowd Counting](https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Sajid_Audio-Visual_Transformer_Based_Crowd_Counting_ICCVW_2021_paper.pdf), **ICCVW 2021 <span style="color:red"> *(oral)* </span>**.
@@ -40,6 +41,6 @@ I am currently a third year Ph.D. student at the University of Kansas. My resear
 
 
 # 💻 Internships
-- *2018.07 - 2019.07*, AIRIA, China.
-- *2016.12 - 2017.02*, Meituan Dianping, China.
+- *2018.07 - 2019.07*, Computer Vision Engineer intern, AIRIA (affiliated with CASIA), Nanjing, China.
+- *2016.12 - 2017.02*, SDET intern, Meituan Dianping, Shanghai, China.
 
