@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a forth year Ph.D. student at the University of Kansas. My research interest includes label efficient learning in computer vision with its application on medical field. I am looking for intership in 2023, Spring and/or Summer. Please feel free to contact me at xychen@ku.edu if you have any interships or other opportunities available.
+I am currently a fourth year Ph.D. student at the University of Kansas. My research interest includes label efficient learning in computer vision with its application on medical field. I am looking for intership in 2023, Spring and/or Summer. Please feel free to contact me at xychen@ku.edu if you have any interships or other opportunities available.
 
 
 # 🔥 News
