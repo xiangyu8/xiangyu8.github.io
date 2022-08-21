@@ -41,6 +41,6 @@ I am currently a fourth year Ph.D. student at the University of Kansas. My resea
 
 
 # 💻 Internships
-- *2018.07 - 2019.07*, Computer Vision Engineer intern, AIRIA (affiliated with CASIA), Nanjing, China.
+- *2018.07 - 2019.07*, Computer Vision Engineer intern, AIRIA, Nanjing, China.
 - *2016.12 - 2017.02*, SDET intern, Meituan Dianping, Shanghai, China.
 
