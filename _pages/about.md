@@ -21,6 +21,7 @@ I am currently a fourth year Ph.D. student at the University of Kansas. My resea
 
 
 # 🔥 News
+- *2022.08*: &nbsp; One paper submitted to WACV 2023.
 - *2022.06*: &nbsp; One paper submitted to Neurocomputing.
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
