@@ -27,8 +27,8 @@ I am currently a fourth year Ph.D. student at the University of Kansas. My resea
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
-- *Xiangyu Chen*, Qinghao Hu, Kaidong Li, Cuncong Zhong and Guanghui Wang. [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](), **WACV 2023**.
-- *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Increasing Input Information Density for Vision Transformers on Small Datasets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4179882), **NeurIPS workshop (VTTA) 2022**.
+- *Xiangyu Chen*, Qinghao Hu, Kaidong Li, Cuncong Zhong and Guanghui Wang. [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333), **WACV 2023**.
+- *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
 - *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](https://www.cs.ryerson.ca/~wangcs/papers/cvprw22.pdf), **extended abstract in CVPR Workshop (WiCV) 2022**.
 - Xi Mo, *Xiangyu Chen*. [Realtime Global Attention Network for Image Segmentation](https://arxiv.org/pdf/2112.12939), **RA-L 2022 & ICRA 2022**.
 - Xi Mo, *Xiangyu Chen*, Cuncong Zhong, Rui Li, Kaidong Li and Usman Sajid. [Dilated Continuous Random Field for Semantic Segmentation](https://arxiv.org/pdf/2202.00162), **ICRA 2022**.
