@@ -27,6 +27,7 @@ I am currently a fourth year Ph.D. student at the University of Kansas. My resea
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
+- Tianxiao Zhang, Kaidong Li, *Xiangyu Chen*, Cuncong Zhong, Bo Luo, Ivan Grijalva Teran, Brian McCornack, Daniel Flippo, Ajay Sharda, Guanghui Wang. [A New Dataset and Comparative Study for Aphid Cluster Detection](https://openreview.net/forum?id=BuQ50s9ces&noteId=DWFovQ4Txg), **AAAI workshop (AIAFS) 2023 <span style="color:red"> *(oral)* </span>**.
 - *Xiangyu Chen*, Qinghao Hu, Kaidong Li, Cuncong Zhong and Guanghui Wang. [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333), **WACV 2023**.
 - *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
 - *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](https://www.cs.ryerson.ca/~wangcs/papers/cvprw22.pdf), **extended abstract in CVPR Workshop (WiCV) 2022**.
