@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth year Ph.D. student at the University of Kansas. My research interest includes label efficient learning in computer vision with its application on medical field. I am looking for intership in 2023, Spring and/or Summer. Please feel free to contact me at xychen@ku.edu if you have any internships or other opportunities available.
+I am currently a fourth year Ph.D. candidate at the University of Kansas. My research interest includes label efficient learning in computer vision with its application on medical field. I am looking for intership in 2023, Spring and/or Summer. Please feel free to contact me at xychen@ku.edu if you have any internships or other opportunities available.
 
 
 # 🔥 News
+- *2022.12*: &nbsp; Passed the comprehensive exam and officially became a Ph.D. candiate.
 - *2022.10*: &nbsp; One paper accepted by WACV 2023, one paper accepted by NeurIPS workshop 2022.
 - *2022.08*: &nbsp; One paper submitted to WACV 2023.
 - *2022.06*: &nbsp; One paper submitted to Neurocomputing.
