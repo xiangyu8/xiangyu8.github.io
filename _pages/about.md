@@ -21,6 +21,7 @@ I am currently a fourth year Ph.D. candidate at the University of Kansas. My res
 
 
 # 🔥 News
+- *2023.01*: &nbsp; I am honored to start my internship at SenseBrain.
 - *2022.12*: &nbsp; Passed the comprehensive exam and officially became a Ph.D. candiate.
 - *2022.10*: &nbsp; One paper accepted by WACV 2023, one paper accepted by NeurIPS workshop 2022.
 - *2022.08*: &nbsp; One paper submitted to WACV 2023.
@@ -46,6 +47,7 @@ I am currently a fourth year Ph.D. candidate at the University of Kansas. My res
 
 
 # 💻 Internships
+- *2023.01 - present*, Research Intern, SenseBrain, San Jose, CA, USA.
 - *2018.07 - 2019.07*, Computer Vision Engineer intern, AIRIA, Nanjing, China.
 - *2016.12 - 2017.02*, SDET intern, Meituan Dianping, Shanghai, China.
 
