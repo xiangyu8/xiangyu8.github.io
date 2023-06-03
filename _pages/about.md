@@ -21,6 +21,7 @@ I am currently a fourth year Ph.D. candidate at the University of Kansas. My res
 
 
 # 🔥 News
+- *2023.05*: &nbsp; One paper accepted by Journal of Imaging.
 - *2023.01*: &nbsp; I am honored to start my internship at SenseBrain.
 - *2022.12*: &nbsp; Passed the comprehensive exam and officially became a Ph.D. candiate.
 - *2022.10*: &nbsp; One paper accepted by WACV 2023, one paper accepted by NeurIPS workshop 2022.
@@ -29,6 +30,7 @@ I am currently a fourth year Ph.D. candidate at the University of Kansas. My res
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
+- Zhang, T., Bur, A. M., Kraft, S., Kavookjian, H., Renslo, B., Chen, X., ... & Wang, G.[Gender, Smoking History, and Age Prediction from Laryngeal Images](https://www.mdpi.com/2313-433X/9/6/109), **Journal of Imaging 2023**.
 - Tianxiao Zhang, Kaidong Li, *Xiangyu Chen*, Cuncong Zhong, Bo Luo, Ivan Grijalva Teran, Brian McCornack, Daniel Flippo, Ajay Sharda, Guanghui Wang. [A New Dataset and Comparative Study for Aphid Cluster Detection](https://openreview.net/forum?id=BuQ50s9ces&noteId=DWFovQ4Txg), **AAAI workshop (AIAFS) 2023 <span style="color:red"> *(oral)* </span>**.
 - *Xiangyu Chen*, Qinghao Hu, Kaidong Li, Cuncong Zhong and Guanghui Wang. [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333), **WACV 2023**.
 - *Xiangyu Chen*, Ying Qin, Wenju Xu, Andrés M. Bur, Cuncong Zhong and Guanghui Wang. [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
