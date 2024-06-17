@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I just obtained my Ph.D degree with honors from the University of Kansas. My research interest is efficient AI, to increase efficiency from all aspect including data efficiency, model efficiency and training/inference efficiency. I am looking for full-time job starting in November 2024. Please feel free to contact me at xychen@ku.edu if you have any internships or other opportunities available.
+I just obtained my Ph.D degree with honors from the University of Kansas. My research interest is efficient AI, to increase efficiency from all aspect including data efficiency, model efficiency and training/inference efficiency. I am looking for full-time job starting in November 2024. Please feel free to contact me at xychen@ku.edu if you have any opportunities available.
 
 
 # 🔥 News
