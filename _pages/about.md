@@ -57,7 +57,7 @@ I just obtained my Ph.D degree with honors from the University of Kansas. My res
 
 
 # 💻 Internships
-- *2024.07 - present, Research Intern, [MERL](https://www.merl.com), Cambridge, MA, USA.
+- *2024.07 - present*, Research Intern, [MERL](https://www.merl.com), Cambridge, MA, USA.
 - *2023.11 - 2024.05*, Research Intern, [MERL](https://www.merl.com), Cambridge, MA, USA.
 - *2023.01 - 2023.10*, Research Intern, SenseBrain, San Jose, CA, USA.
 - *2018.07 - 2019.07*, Computer Vision Engineer intern, AIRIA, Nanjing, China.
