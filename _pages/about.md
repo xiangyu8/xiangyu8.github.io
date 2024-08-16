@@ -51,7 +51,7 @@ I just obtained my Ph.D degree with honors from the University of Kansas. My res
 - Zhe Li, *Xiangyu Chen*, Wei Deng, Wenjiang Pei and Yili Xia. [Using RFID Technology to Introduce Properties of LMS](https://ieeexplore.ieee.org/abstract/document/8683764), **ICASSP 2019 <span style="color:red"> *(oral, Education Innovation Award)* </span>**
 
 # 📖 Educations
-- *2019.08 - 2024.05*, Ph.D. in Electrical Engineering, University of Kansas, USA. **Advisor**: Dr. Guanghui Wang and Dr. Cuncong Zhong.
+- *2024.05*, Ph.D. in Electrical Engineering (with honors), University of Kansas, USA. **Advisor**: Dr. Guanghui Wang and Dr. Cuncong Zhong.
 - *2018*, M.Eng. in Signal and Information Processing, Southeast University, China. **Advisor**: Dr. Yili Xia and Dr. Wenjiang Pei.
 - *2015*, B.Eng. in Electronic and Information Engineering, Nanjing University of Science & Technology, China. 
 
