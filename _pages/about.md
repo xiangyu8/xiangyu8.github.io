@@ -21,7 +21,7 @@ I just obtained my Ph.D degree with honors from the University of Kansas. My res
 
 
 # 🔥 News
-- *2024.07*: &nbsp; I will return to MERL for another 3-month internship, working on efficient AI.
+- *2024.07*: &nbsp; I will return to MERL as an intern, working on efficient AI.
 - *2024.06*: &nbsp; One paper accepted by CVPR workshop.
 - *2024.05*: &nbsp;🎉 I graduated with honors!
 - *2023.11*: &nbsp; I am honored to start my internship at MERL.
@@ -35,7 +35,8 @@ I just obtained my Ph.D degree with honors from the University of Kansas. My res
 - *2022.04*: &nbsp;🎉 Awarded WiCV travel fund. 
 
 # 📝 Publications 
-- *Chen, X.*, Jing Liu and et. al..[SuperLoRA: Parameter-Efficient Unified Adaptation of Large Foundation Models]. **BMVC 2024**
+- *Chen, X.*, Ye Wang and et. al..[Slaying the HyDRA: Parameter-Efficient Hyper Networks with Low-Displacement Rank Adaptation](https://www.merl.com/publications/docs/TR2024-157.pdf). **NeurIPS Workshop 2024**
+- *Chen, X.*, Jing Liu and et. al..[SuperLoRA: Parameter-Efficient Unified Adaptation of Large Foundation Models](https://www.merl.com/publications/docs/TR2024-156.pdf). **BMVC 2024**
 - *Chen, X.*, Jing Liu and et. al..[SuperLoRA: Parameter-Efficient Unified Adaptation for Large Vision Models](https://www.merl.com/publications/docs/TR2024-062.pdf). **CVPR workshop (ECV) 2024**
 - *Chen, X.*, Zhen, R., Li, S., Li, X., & Wang, G. (2023). [MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices](https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Chen_MOFA_A_Model_Simplification_Roadmap_for_Image_Restoration_on_Mobile_ICCVW_2023_paper.html). **ICCV workshop (RCV) 2023**.
 - Zhang, T., Bur, A. M., Kraft, S., Kavookjian, H., Renslo, B., Chen, X., ... & Wang, G.[Gender, Smoking History, and Age Prediction from Laryngeal Images](https://www.mdpi.com/2313-433X/9/6/109), **Journal of Imaging 2023**.
