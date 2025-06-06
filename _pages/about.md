@@ -32,18 +32,18 @@ I obtained my Ph.D degree with honors from the University of Kansas in 2024. My 
 - *Chen, X.*, et. al. (2025). [TuneComp: Joint Fine-tuning and Compression for Large Foundation Models](https://arxiv.org/pdf/2505.21835) arxiv 2025.
 - Koike-Akino, T., *Chen, X.*, et. al. (2025). [LatentLLM: Attention-Aware Joint Tensor Compression](https://arxiv.org/pdf/2505.18413?) arxiv 2025.
 - *Chen, X.*, et. al. (2023). [MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices](https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Chen_MOFA_A_Model_Simplification_Roadmap_for_Image_Restoration_on_Mobile_ICCVW_2023_paper.html). **ICCV workshop (RCV) 2023**.
-- *Xiangyu Chen*, et. al. (2023). [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333), **WACV 2023**.
+- *Chen, X.*, et. al. (2023). [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333), **WACV 2023**.
 
 ## Data Efficiency
 ### Data Quality
-- *Xiangyu Chen*, et. al. (2022). [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
-- *Xiangyu Chen*, et. al. (2022). [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](https://www.cs.ryerson.ca/~wangcs/papers/cvprw22.pdf), **extended abstract in CVPR Workshop (WiCV) 2022**.
+- *Chen, X.*, et. al. (2022). [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
+- *Chen, X.*, et. al. (2022). [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](https://www.cs.ryerson.ca/~wangcs/papers/cvprw22.pdf), **extended abstract in CVPR Workshop (WiCV) 2022**.
   
 ### Data Quantity
-- *Xiangyu Chen* et. al (2021). [Few-Shot Learning by Integrating Spatial and Frequency Representation](https://arxiv.org/pdf/2105.05348), **The Conference on Robots and Vision (CRV) 2021<span style="color:red"> *(oral)* </span>**
+- *Chen, X.* et. al (2021). [Few-Shot Learning by Integrating Spatial and Frequency Representation](https://arxiv.org/pdf/2105.05348), **The Conference on Robots and Vision (CRV) 2021<span style="color:red"> *(oral)* </span>**
 
 ## Application
-- *Xiangyu Chen*, et. al. (2020). [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355), **Companion of ICHRI 2020**.
+- *Chen, X.*, et. al. (2020). [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355), **Companion of ICHRI 2020**.
   
 # 📖 Educations
 - *2024*, Ph.D. in Electrical Engineering (with honors), University of Kansas, USA.
