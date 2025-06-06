@@ -38,6 +38,7 @@ I obtained my Ph.D degree with honors from the University of Kansas in 2024. My 
 ### Data Quality
 - *Xiangyu Chen*, et. al. (2022). [Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.14319), **NeurIPS workshop (VTTA) 2022**.
 - *Xiangyu Chen*, et. al. (2022). [Improving Vision Transformers on Small Datasets by Increasing Input Information Density in Frequency Domain](https://www.cs.ryerson.ca/~wangcs/papers/cvprw22.pdf), **extended abstract in CVPR Workshop (WiCV) 2022**.
+  
 ### Data Quantity
 - *Xiangyu Chen* et. al (2021). [Few-Shot Learning by Integrating Spatial and Frequency Representation](https://arxiv.org/pdf/2105.05348), **The Conference on Robots and Vision (CRV) 2021<span style="color:red"> *(oral)* </span>**
 
