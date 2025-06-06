@@ -44,11 +44,6 @@ I obtained my Ph.D degree with honors from the University of Kansas in 2024. My 
 
 ## Application
 - *Chen, X.*, et. al. (2020). [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355), **Companion of ICHRI 2020**.
-  
-# 📖 Educations
-- *2024*, Ph.D. in Electrical Engineering (with honors), University of Kansas, USA.
-- *2018*, M.Eng., Southeast University, China.
-- *2015*, B.Eng., Nanjing University of Science & Technology, China. 
 
 
 # 💻 Internships
