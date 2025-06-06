@@ -24,9 +24,9 @@ I obtained my Ph.D degree with honors from the University of Kansas in 2024. My 
 
 ## Training/Finetuning Efficiency
 
-- *Chen, X.*, et. al..[Slaying the HyDRA: Parameter-Efficient Hyper Networks with Low-Displacement Rank Adaptation](https://www.merl.com/publications/docs/TR2024-157.pdf). **NeurIPS Workshop 2024**
-- *Chen, X.*, et. al..[SuperLoRA: Parameter-Efficient Unified Adaptation of Large Foundation Models](https://www.merl.com/publications/docs/TR2024-156.pdf). **BMVC 2024**
-- *Chen, X.*, et. al..[SuperLoRA: Parameter-Efficient Unified Adaptation for Large Vision Models](https://www.merl.com/publications/docs/TR2024-062.pdf). **CVPR workshop (ECV) 2024**
+- *Chen, X.*, et. al. (2024).[Slaying the HyDRA: Parameter-Efficient Hyper Networks with Low-Displacement Rank Adaptation](https://www.merl.com/publications/docs/TR2024-157.pdf). **NeurIPS Workshop 2024**
+- *Chen, X.*, et. al. (2024).[SuperLoRA: Parameter-Efficient Unified Adaptation of Large Foundation Models](https://www.merl.com/publications/docs/TR2024-156.pdf). **BMVC 2024**
+- *Chen, X.*, et. al. (2024).[SuperLoRA: Parameter-Efficient Unified Adaptation for Large Vision Models](https://www.merl.com/publications/docs/TR2024-062.pdf). **CVPR workshop (ECV) 2024**
 
 ## Model Efficiency
 - *Chen, X.*, et. al. (2025). [TuneComp: Joint Fine-tuning and Compression for Large Foundation Models](https://arxiv.org/pdf/2505.21835) arxiv 2025.
@@ -41,6 +41,9 @@ I obtained my Ph.D degree with honors from the University of Kansas in 2024. My 
 ### Data Quantity
 - *Xiangyu Chen* et. al (2021). [Few-Shot Learning by Integrating Spatial and Frequency Representation](https://arxiv.org/pdf/2105.05348), **The Conference on Robots and Vision (CRV) 2021<span style="color:red"> *(oral)* </span>**
 
+## Application
+- *Xiangyu Chen*, et. al. (2020). [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355), **Companion of ICHRI 2020**.
+  
 # 📖 Educations
 - *2024*, Ph.D. in Electrical Engineering (with honors), University of Kansas, USA.
 - *2018*, M.Eng., Southeast University, China.
